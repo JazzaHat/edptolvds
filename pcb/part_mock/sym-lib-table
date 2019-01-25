@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PTN3460I)(type Legacy)(uri ${KIPRJMOD}/PTN3460I.lib)(options "")(descr ""))
+)
