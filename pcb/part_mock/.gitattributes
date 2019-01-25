@@ -1,0 +1,6 @@
+*.pro -text
+*.sch -text 
+*.bck -text 
+*.dcm -text 
+*.lib -text 
+*.kicad_pcb -text
